@@ -1,8 +1,8 @@
 import React from 'react'
 import Link from 'next/link'
 import Image from 'next/image'
-import pokeball from "../src/images/pokeball.png";
-import pokeballcolor from "../src/images/pokeballcolor.png";
+import pokeball from "../public/pokeball.png";
+import pokeballcolor from "../public/pokeballcolor.png";
 
 const Navbar = () => {
   return (

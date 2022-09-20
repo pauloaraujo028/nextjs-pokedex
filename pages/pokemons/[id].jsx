@@ -13,7 +13,7 @@ const Details = ({ pokemon, styles }) => {
           </button>
         </Link>
       </div>
-      <div className="min-h-screen pt-8 flex flex-wrap sm:flex-nowrap justify-center mx-auto bg-[url('../src/images/bg.png')] bg-cover">
+      <div className="min-h-screen pt-8 flex flex-wrap sm:flex-nowrap justify-center mx-auto bg-[url('../public/bg.png')] bg-cover">
         <div className="flex mx-20 pt-24 w-[400px] drop-shadow-[5px_0_10px_rgb(0,0,0)]">
           <img src={pokemon.image.hires} alt="pokemon" />
         </div>
