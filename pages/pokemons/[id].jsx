@@ -13,11 +13,11 @@ const Details = ({ pokemon, styles }) => {
           </button>
         </Link>
       </div>
-      <div className="min-h-screen pt-8 flex flex-wrap sm:flex-nowrap justify-center mx-auto bg-[url('../public/bg.png')] bg-cover">
+      <div className="min-h-screen pt-8 flex flex-wrap sm:flex-nowrap justify-center mx-auto bg-gray-200">
         <div className="flex mx-20 pt-24 w-[400px] drop-shadow-[5px_0_10px_rgb(0,0,0)]">
           <img src={pokemon.image.hires} alt="pokemon" />
         </div>
-        <div className="flex-1 mx-20 py-18 text-white font-bold">
+        <div className="flex-1 mx-20 py-18 text-black font-bold">
           <p className="text-4xl font-semibold">
             <span className="mr-4">#{pokemon.id}</span>
             <span>{pokemon.name.english}</span>
@@ -80,7 +80,7 @@ const Details = ({ pokemon, styles }) => {
                   break;
                 case "Sp. Defense":
                   statPercentFactor = 2.3;
-                  statColor = "#dfdfdf";
+                  statColor = "#84df57";
                   break;
                 case "Speed":
                   statPercentFactor = 2.0;
