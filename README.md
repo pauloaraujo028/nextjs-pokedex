@@ -107,7 +107,7 @@ As contribuições são o que tornam a comunidade de código aberto um lugar inc
 Se você tiver uma sugestão para melhorar o projeto, faça um fork do repositório e crie uma solicitação pull. Você também pode simplesmente abrir um issue com a tag "melhoria".
 Não se esqueça de dar uma estrela ao projeto! Obrigado novamente!
 
-1. Fork o Projeto
+1. Faça o Fork do Projeto
 2. Crie seu Branch (`git checkout -b feature/RecursoIncrivel`)
 3. Commit suas alterações (`git commit -m 'Adicione algum recurso incrivel'`)
 4. Push para o Branch (`git push origin feature/RecursoIncrivel`)
