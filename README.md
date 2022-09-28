@@ -10,11 +10,11 @@
 
   <h4 align="center">  
     <br />
-    <a href="https://nextpokedex-app.netlify.app/" target="_blank">View Live</a>
+    <a href="https://nextpokedex-app.netlify.app/" target="_blank">Ver Online</a>
     ·
-    <a href="https://github.com/pauloaraujo028/nextjs-pokedex/issues/new" target="_blank">Report Bug</a>
+    <a href="https://github.com/pauloaraujo028/nextjs-pokedex/issues/new" target="_blank">Relatar Bug</a>
     ·
-    <a href="https://github.com/pauloaraujo028/nextjs-pokedex/issues/new" target="_blank">Request Feature</a>
+    <a href="https://github.com/pauloaraujo028/nextjs-pokedex/issues/new" target="_blank">Recurso de Solicitação</a>
   </h4>
 </div>
 
@@ -38,14 +38,14 @@
     <li><a href="#contributing">Contribuindo</a></li>
     <li><a href="#license">Licença</a></li>
     <li><a href="#contact">Contato</a></li>
-    <li><a href="#acknowledgments">Agradecimentos</a></li>
+    <!-- <li><a href="#acknowledgments">Agradecimentos</a></li> -->
   </ol>
 </details>
 
 
 
 <!-- ABOUT THE PROJECT -->
-<a name="#about-the-project"></a>
+<a name="about-the-project"></a>
 ## Sobre o Projeto
 
 Um guia de consulta e informações sobre Pokémons.
@@ -64,6 +64,7 @@ Embora a quantidade de pokémons extraídos da API torne a nevegação um pouco 
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
+<a name="built-with"></a>
 ### Construído com
 
 **Principais tecnologias:**
@@ -78,14 +79,17 @@ Embora a quantidade de pokémons extraídos da API torne a nevegação um pouco 
 
 
 <!-- GETTING STARTED -->
+<a name="getting-started"></a>
 ## Getting Started
 
+<a name="clone-locally"></a>
 ### Clonar-localmente
 - Digite essa url: [https://github.com/pauloaraujo028/nextjs-pokedex.git](https://github.com/pauloaraujo028/nextjs-pokedex.git) no seu navegador.
 - Uma vez aberto, navegue até o nível superior esquerdo do projeto, um botão verde de download do código estará visível no lado direito.
 - Selecione a opção de download Zip no menu suspenso.
 - Quando o download estiver concluído, você poderá acessar meu projeto localmente. 
 
+<a name="prerequisites"></a>
 ### Pré-requisitos
 * npm
   ```sh
@@ -95,6 +99,7 @@ Embora a quantidade de pokémons extraídos da API torne a nevegação um pouco 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
 <!-- CONTRIBUTING -->
+<a name="contributing"></a>
 ## Contribuição
 
 As contribuições são o que tornam a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Quaisquer contribuições que você fizer são **muito apreciadas**.
@@ -111,6 +116,7 @@ Não se esqueça de dar uma estrela ao projeto! Obrigado novamente!
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
 <!-- LICENSE -->
+<a name="license"></a>
 ## Licença
 
 Distribuído sob a licença MIT.
@@ -118,6 +124,7 @@ Distribuído sob a licença MIT.
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
 <!-- CONTACT -->
+<a name="contact"></a>
 ## Contato
 ### Paulo Araújo
 
@@ -129,6 +136,7 @@ Distribuído sob a licença MIT.
 
 
 <!-- ACKNOWLEDGMENTS 
+<a name="acknowledgments"></a>
 ## Agradecimentos
 
 * 
