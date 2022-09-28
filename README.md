@@ -53,7 +53,7 @@ Um guia de consulta e informações sobre Pokémons.
 <img width="1493" alt="nextjs-pokedex" src="https://user-images.githubusercontent.com/105018299/192658149-391c2f4c-557a-4046-a806-b9020f0c80af.jpg"><img width="1493" alt="amazon-clone" src="https://user-images.githubusercontent.com/105018299/192658624-a9b335ca-38b5-44b5-ac00-c823fae0cf09.jpg">
 
 **Funcionalidades principais:**
-* Consulta de API.
+* Consulta de API ( [PikaServe](https://github.com/Purukitto/PikaServe) ).
 * Buscar Pokémons por nome/tipo.
 * Páginação para rolar entre as Listas.
 * Desktop/Mobile responsivo.
