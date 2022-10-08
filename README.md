@@ -60,7 +60,7 @@ Um guia de consulta e informações sobre Pokémons.
 * Página de Status.
 * Quantidade de Pokémons atualizada.
 
-Embora a quantidade de pokémons extraídos da API torne a nevegação um pouco lenta (será resolvido trocando a API) todas funcionalidades estão funcionando perfeitamente, É um projeto excelente, utilizável em todos os dispositivos e foi construído com NEXTJS & TAILWIND CSS. Espero que goste. Clique [aqui](https://nextpokedex-app.netlify.app/) para ver o projeto ao vivo na web.
+Embora a quantidade de pokémons extraídos da API torne a navegação um pouco lenta (será resolvido trocando a API) todas funcionalidades estão funcionando perfeitamente, É um projeto excelente, utilizável em todos os dispositivos e foi construído com NEXTJS & TAILWIND CSS. Espero que goste. Clique [aqui](https://nextpokedex-app.netlify.app/) para ver o projeto ao vivo na web.
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
